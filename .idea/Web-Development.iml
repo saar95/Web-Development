@@ -5,6 +5,19 @@
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/Bootstrap - installation" />
+      <excludeFolder url="file://$MODULE_DIR$/Calculator" />
+      <excludeFolder url="file://$MODULE_DIR$/HTML - Personal Site" />
+      <excludeFolder url="file://$MODULE_DIR$/Newsletter-Signup" />
+      <excludeFolder url="file://$MODULE_DIR$/Simon Game" />
+      <excludeFolder url="file://$MODULE_DIR$/Test" />
+      <excludeFolder url="file://$MODULE_DIR$/TinDog-Start" />
+      <excludeFolder url="file://$MODULE_DIR$/WeatherProject" />
+      <excludeFolder url="file://$MODULE_DIR$/intro-to-node" />
+      <excludeFolder url="file://$MODULE_DIR$/my-express-server" />
+      <excludeFolder url="file://$MODULE_DIR$/todolist-v1" />
+      <excludeFolder url="file://$MODULE_DIR$/FruitsProject" />
+      <excludeFolder url="file://$MODULE_DIR$/ejs-challenge" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
